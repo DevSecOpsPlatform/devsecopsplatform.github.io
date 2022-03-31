@@ -12,10 +12,11 @@ permalink: /
 An engineer working for a Unissant...
 
 
-Has responsibilities to their team – mentor, coach, and lead.
-Knows their playbook. Follows their playbook. Fixes their playbook if it is broken. If they find a better playbook, they copy it. If somebody could use their playbook, they share it.
-Leads by example. Models the behaviors we desire both interpersonally and technically.
-Strives to understand how their work fits into a broader context and ensures the outcome.
+- Has responsibilities to their team – mentor, coach, and lead.
+- Knows their playbook. Follows their playbook. Fixes their playbook if it is broken. If they find a better playbook, they copy it. If somebody could use their playbook, they share it.
+- Leads by example. Models the behaviors we desire both interpersonally and technically.
+- Strives to understand how their work fits into a broader context and ensures the outcome.
+
 This is our playbook. All contributions are welcome! Please feel free to submit a pull request to get involved.
 
 # Why Have A Playbook
