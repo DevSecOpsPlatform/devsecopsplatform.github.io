@@ -5,7 +5,7 @@ nav_order: 2
 permalink: /engineering-checklist/
 ---
 
-# Engineering Standards Checklist
+# Engineering Checklist
 
 This checklist helps to ensure that projects meet our Engineering Standards.
 
