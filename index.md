@@ -9,7 +9,7 @@ permalink: /
 # Unissant Engineering Playbook
 {: .fs-9 }
 
-An engineer working for a Unissant...
+An engineer working for Unissant...
 
 
 - Has responsibilities to their team – mentor, coach, and lead.
@@ -26,9 +26,6 @@ This is our playbook. All contributions are welcome! Please feel free to submit 
 
 # "The" Checklist
 If you do nothing else follow the Engineering Checklist!
-
-# Structure of a Sprint
-The structure of a sprint is a breakdown of the sections of the playbook according to the structure of an Agile sprint.
 
 # General Guidance
 - Keep the code quality bar high.
