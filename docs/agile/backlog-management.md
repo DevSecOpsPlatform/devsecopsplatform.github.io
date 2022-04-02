@@ -31,9 +31,18 @@ highest level, e.g., Account Info, Transactions, Support functions,…)
 - User Stories: containing single action enough to start implementing (~use-cases, scenarios)
 - Tasks: execution steps required to develop a story; breakdown User Story into Tasks during Sprint planning
 
+## Participants
+- Product Owner
+- Scrum Master
+- All members of Agile Team
+
+## Outcomes
+- Groomed Backlog Stories that are :
+    - Grouped Logically
+    - Prioritized and
+    - Estimated  
 
 ## Backlog should be DEEP
-
 DETAILED
 The backlog should be detailed enough so that everyone understands the need (not just the person who wrote it).
 

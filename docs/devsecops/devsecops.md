@@ -9,5 +9,3 @@ permalink: docs/devsecops
 # DevSecOps
 {: .no_toc }
 
-
-![](../../assets/images/devsecops.png)

@@ -6,8 +6,5 @@ has_children: true
 parent: Agile
 permalink: agile/scrum
 ---
-
-# Scrum
+# Scrum 
 {: .no_toc }
-
-

@@ -12,12 +12,12 @@ permalink: /
 An engineer working for Unissant...
 
 
-- Has responsibilities to their team – mentor, coach, and lead.
-- Knows their playbook. Follows their playbook. Fixes their playbook if it is broken. If they find a better playbook, they copy it. If somebody could use their playbook, they share it.
-- Leads by example. Models the behaviors we desire both interpersonally and technically.
-- Strives to understand how their work fits into a broader context and ensures the outcome.
+- Need to collaborate with other unissants for sharing and learning.
+- Knows their playbook. Follows their playbook. Fixes their playbook if it is broken. 
+- Leads by example. Models the behaviors that inspires others both interpersonally and technically.
+- Strives to understand how their work fits into a customer context and ensures the outcome.
 
-This is our playbook. All contributions are welcome! Please feel free to submit a pull request to get involved.
+This is our playbook. All contributions are welcome! Read the [documentation](/contribute/) to contribute. 
 
 # Why Have A Playbook
 - To increase overall efficiency for team members and the whole team in general.
@@ -25,7 +25,7 @@ This is our playbook. All contributions are welcome! Please feel free to submit 
 - To strive to be better engineers and learn from other people's shared experience.
 
 # "The" Checklist
-If you do nothing else follow the Engineering Checklist!
+If you do nothing else follow the [Engineering Checklist](/engineering-checklist/)
 
 # General Guidance
 - Keep the code quality bar high.

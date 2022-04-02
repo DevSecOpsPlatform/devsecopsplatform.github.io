@@ -6,6 +6,5 @@ has_children: true
 permalink: docs/agile
 ---
 
-# Agile Development
+# Agile 
 {: .no_toc }
-
