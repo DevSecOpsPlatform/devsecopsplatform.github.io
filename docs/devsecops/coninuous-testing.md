@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Continuous Testing
-nav_order: 4
+nav_order: 2
 has_children: false
 parent: DevSecOps
 permalink: /devsecops/coninuous-testing/
