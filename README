@@ -1,0 +1,50 @@
+This is Unissant Playbook for Agile and DevSecOps written in Markdown and deployed using github pages. The default layout is designed using Just the docs. Just the Docs is built for Jekyll, a static site generator. Just the Docs requires no special plugins and can run on GitHub Pages’ standard Jekyll compiler. 
+
+## Pre-requisites:
+
+Jekyll requires the following:
+
+- Ruby version 2.5.0 or higher
+- RubyGems
+- GCC and Make
+
+
+## References 
+
+1. For Markdown - https://www.markdownguide.org/basic-syntax/
+2. For Jekyll - https://jekyllrb.com/docs/
+2. For Github Pages - https://docs.github.com/en/pages
+3. For Just the docs - https://just-the-docs.github.io/just-the-docs/
+
+## Reposiotry Orgnization
+
+The reposiotyr is organized as below.
+assests - Folder that consists of any images, scripts and css files.
+docs/ - Main documentaiton folder organized as below 
+    agile/ - Folder which contains the Agile Playbook documentation.
+    devsecops/ - Folder which contains all of the devsecops playbook documentation.
+    developer-tools/ - Folder is empty added for documenting the development tools playbook
+
+All files are added using markdown files with suffix .md or .markdown
+
+## Configuration Information
+
+Following are important files for the Jekyll framework which is a recommended static site generator for github pages. 
+
+_config.yml - The Configuration Settings of the site are placed in this file.
+Gemfile - The ruby dependment libraries are specified in the file.
+
+## Local Setup for Development
+
+To Setup the local server for updates:
+1. Check or clone the repo.
+2. Install all prerequisites.
+3. Install the jekyll and bundler gems.
+    gem install jekyll bundler
+4. Change into repo directory if not already there.
+    cd devsecopsplatform.github.io
+5. Build the site and make it available on a local server.
+    bundle exec jekyll serve
+6. Browse to http://localhost:4000
+
+Once the site is up and running in the local server, add or modify the content as needed and verify the changes in the local server. Once the changes are done, push the changes to the github repository and the updates are reflected on github pages site after few mins. The best practice is to push the changes to the repo using Merge Request after the peer reviews.
